@@ -1,2 +1,2 @@
 # Alunos
-Simples calculo de notasde alunos em java
+Simples calculo de notas de alunos em java
